@@ -1,0 +1,24 @@
+{
+  "token": "Njc5ODIxNTExMjI1NjM4OTQ1.Xlhe1g.31aKJ50FJtUma64BksLn0BRRhVQ",
+  "ownerID": "168081189339529217",
+  "prefix": "!",
+  "rotatePlayingGame": true,
+  "rotatePlayingGameTime" : 150000,
+  "rotatePlayingGameInStreamingStatus": true,
+  "rotateAvatarImage": true,
+  "rotateAvatarImageTime" : 3200000,
+  "defaultStatus": "dnd",
+  "mentionNotificator": {
+    "inConsole": true,
+    "inNotificationChannel": true,
+    "logBlockedUsers": true
+  },
+  "eventNotificator": {
+    "inConsole": true,
+    "inNotificationChannel": true
+  },
+  "notificationChannelID": "290204691755827200",
+  "defaultEmbedColor": "#C5B2F9",
+  "deleteCommandMessages": false,
+  "deleteCommandMessagesTime": 0
+}
