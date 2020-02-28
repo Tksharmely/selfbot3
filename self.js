@@ -155,3 +155,5 @@ self.connect().catch(err => log.err(err, 'Login'))
 process.on('SIGINT', () => { self.disconnect({reconnect: false}); setTimeout(() => process.exit(0), 1000) })
 
 process.on('unhandledRejection', (err) => log.err(err, 'Promise was rejected but there was no error handler'))
+
+client.login(process.env.BOT_TOKEN);
