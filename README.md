@@ -1,4 +1,3 @@
-[![dependencies Status](https://david-dm.org/KurozeroPB/selfbot/status.svg)](https://david-dm.org/KurozeroPB/selfbot)
 
 # SelfBot Setup
 
