@@ -1,6 +1,6 @@
 {
-  "token": "NjgyNzU4MTEzNTEzNzAxMzk1.XlhqEg.SfTDGM94-0mtK8kohrD_DEn1rtE",
-  "ownerID": "168081189339529217",
+  "token": "<bot token here>",
+  "ownerID": "<your id here>",
   "prefix": "!",
   "rotatePlayingGame": true,
   "rotatePlayingGameTime" : 150000,
@@ -17,7 +17,7 @@
     "inConsole": true,
     "inNotificationChannel": true
   },
-  "notificationChannelID": "290204691755827200",
+  "notificationChannelID": "<channel id>",
   "defaultEmbedColor": "#C5B2F9",
   "deleteCommandMessages": false,
   "deleteCommandMessagesTime": 0
